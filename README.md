@@ -1,3 +1,3 @@
 # apps-site
 
-Static pages (privacy, support) for apps by Matheus Albuquerque. Generated from the apps' own repositories — do not edit here.
+Redirects from Lepomo's old address to https://lepomo.app. Generated from the app's own repository: do not edit here.
